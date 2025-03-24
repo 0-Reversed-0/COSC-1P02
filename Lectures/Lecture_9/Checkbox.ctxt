@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Checkbox
+comment1.params=
+comment1.target=Checkbox()
+comment2.params=
+comment2.target=void\ read()
+comment3.params=
+comment3.target=void\ checkIt()
+numComments=4

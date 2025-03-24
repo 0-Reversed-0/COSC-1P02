@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Notes
+comment1.params=
+comment1.target=Notes()
+comment2.params=sides\ length\ penWidth\ x\ y
+comment2.target=void\ polygon(int,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ Parameteres\ and\ arguements\r\n
+comment3.params=x\ y
+comment3.target=void\ printer(int,\ double)
+comment3.text=\r\n\ Method\ Types\r\n
+comment4.params=x\ y
+comment4.target=int\ add(int,\ int)
+comment5.params=x\ y
+comment5.target=double\ subtract(int,\ int)
+comment6.params=
+comment6.target=double\ rando()
+comment6.text=\r\n\ Random\ Number\ Generation\r\n
+comment7.params=min\ max
+comment7.target=void\ numberGenerator(int,\ int)
+numComments=8

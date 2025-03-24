@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lab
+comment1.params=
+comment1.target=Lab()
+comment2.params=
+comment2.target=int\ randoNum()
+comment2.text=\r\n\ Random\ Walks\r\n
+comment3.params=
+comment3.target=void\ randomWalks()
+comment4.params=
+comment4.target=void\ fireworks1()
+comment4.text=\r\n\ Fireworks\r\n
+comment5.params=
+comment5.target=void\ single()
+comment6.params=
+comment6.target=void\ cluster()
+comment7.params=
+comment7.target=void\ burst()
+comment8.params=
+comment8.target=void\ fireworks2()
+numComments=9

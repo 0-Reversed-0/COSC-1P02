@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BigImage
+comment1.params=
+comment1.target=BigImage()
+comment2.params=original
+comment2.target=Media.Picture\ embiggening(Media.Picture)
+numComments=3

@@ -1,0 +1,7 @@
+111111	Precious vases	6	2300.50
+222222	Rembrandts	2	17000.00
+333333	Misprinted stamps	11	24.95
+444444	Chrono Trigger	1	196.83
+555555	Printer Ink	4	30.00
+666666	Doubloons	20	400
+777777	Bearer bonds	1	9001

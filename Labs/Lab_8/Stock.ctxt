@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Stock
+comment1.params=input
+comment1.target=Stock(BasicIO.ASCIIDataFile)
+comment2.params=file
+comment2.target=void\ write(BasicIO.ASCIIOutputFile)
+comment3.params=amount
+comment3.target=void\ increment(int)
+comment4.params=
+comment4.target=java.lang.String\ getID()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=int\ getShares()
+numComments=7

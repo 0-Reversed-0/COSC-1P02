@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Notes
+comment1.params=
+comment1.target=Notes()
+comment2.params=ass
+comment2.target=void\ BLACKKK(Media.Picture)
+comment3.params=ass
+comment3.target=void\ forEachLoops(Media.Picture)
+comment3.text=\ \r\n\ For-each\ Loops\ \r\n
+comment4.params=
+comment4.target=void\ Booleans()
+comment4.text=\r\n\ Booleans\r\n
+comment5.params=ass
+comment5.target=void\ example(Media.Picture)
+numComments=6

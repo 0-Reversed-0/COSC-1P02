@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=lowtaperfade
+comment1.params=
+comment1.target=lowtaperfade()
+comment2.params=balls\ fadeIn\ fadeOut
+comment2.target=void\ fade(Media.Sound,\ double,\ double)
+numComments=3

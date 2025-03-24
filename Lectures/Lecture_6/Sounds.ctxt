@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sounds
+comment1.params=
+comment1.target=Sounds()
+comment2.params=value
+comment2.target=void\ equal(int)
+comment3.params=factor
+comment3.target=void\ loud(int)
+comment4.params=
+comment4.target=void\ unmuffle()
+comment5.params=
+comment5.target=int\ max()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Creep
+comment1.params=
+comment1.target=Creep()
+comment2.params=p1\ p2\ factor1\ factor2
+comment2.target=void\ balls(Media.Picture,\ Media.Picture,\ double,\ double)
+numComments=3

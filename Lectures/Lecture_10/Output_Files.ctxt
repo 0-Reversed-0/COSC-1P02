@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Output_Files
+comment1.params=
+comment1.target=Output_Files()
+comment1.text=\r\n\ Ascii\ output\ files\ dont\ have\ collumns\ like\ report\ printers\ do\r\n\ instead\ we\ use\ new\ lines\ and\ tabs\ \r\n
+numComments=2

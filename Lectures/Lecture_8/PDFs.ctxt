@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PDFs
+comment1.params=
+comment1.target=PDFs()
+comment2.params=
+comment2.target=void\ setupReport()
+comment3.params=
+comment3.target=void\ writeDetail()
+numComments=4

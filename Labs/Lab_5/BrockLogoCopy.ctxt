@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BrockLogoCopy
+comment1.params=
+comment1.target=BrockLogoCopy()
+comment2.params=pic\ startX\ startY\ version
+comment2.target=void\ move(Media.Picture,\ int,\ int,\ int)
+comment2.text=\r\n\ move\ -\ moves\ the\ pixels\ to\ form\ the\ next\ image\r\n\r\n\ @param\ pic\ is\ the\ picture\ your\ copying,\ startX\ is\ the\ starting\ point,startY\ is\ the\ starting\ horizontal\ point,\ version\ helps\ determine\ the\ colour\r\n
+comment3.params=version
+comment3.target=java.awt.Color\ iteration(int)
+comment3.text=\r\n\ iteration\ -\ uses\ the\ version\ number\ to\ determine\ what\ color\ to\ use\r\n\r\n\ @param\ version\ helps\ determine\ the\ colour\r\n\ @return\ the\ color\ according\ to\ the\ version\ number\r\n
+comment4.params=p\ version
+comment4.target=java.awt.Color\ changeColour(Media.Pixel,\ int)
+comment4.text=\r\n\ changeColour\ -\ checks\ if\ the\ pixel\ is\ white\ or\ black\ and\ clanges\ the\ colour\r\n\r\n\ @param\ p\ is\ the\ pixel\ being\ checked,\ version\ helps\ determine\ the\ colour\r\n\ @return\ the\ new\ color\r\n
+numComments=5

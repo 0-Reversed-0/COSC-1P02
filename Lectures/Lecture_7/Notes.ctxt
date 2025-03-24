@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Notes
+comment1.params=
+comment1.target=Notes()
+comment2.params=
+comment2.target=void\ methodChaining()
+comment3.params=
+comment3.target=void\ makeGrey()
+comment4.params=p
+comment4.target=java.awt.Color\ getBright(Media.Pixel)
+numComments=5

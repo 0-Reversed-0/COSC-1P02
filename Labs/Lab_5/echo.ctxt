@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=echo
+comment1.params=
+comment1.target=echo()
+comment2.params=original
+comment2.target=Media.Sound\ repeat(Media.Sound)
+comment3.params=original
+comment3.target=Media.Sound\ copy(Media.Sound)
+numComments=4

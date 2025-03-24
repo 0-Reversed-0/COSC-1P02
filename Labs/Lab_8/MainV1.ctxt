@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainV1
+comment1.params=
+comment1.target=MainV1()
+comment2.params=
+comment2.target=void\ setupForm()
+comment3.params=
+comment3.target=void\ setupReport()
+comment4.params=s
+comment4.target=void\ fillForm(Stock)
+comment5.params=s\ investedShares
+comment5.target=void\ writeDetails(Stock,\ int)
+numComments=6

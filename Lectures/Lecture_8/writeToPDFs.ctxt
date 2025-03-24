@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=writeToPDFs
+comment1.params=
+comment1.target=writeToPDFs()
+comment2.params=
+comment2.target=void\ setupReport()
+comment3.params=
+comment3.target=void\ writeToPDF()
+comment4.params=name\ age\ grade
+comment4.target=void\ writeDetail(java.lang.String,\ int,\ double)
+numComments=5
